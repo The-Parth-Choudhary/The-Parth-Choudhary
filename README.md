@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/parth-choudhary-3855a5232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-choudhary-3855a5232" height="30" width="40" /></a>
 <a href="https://instagram.com/the_parth_choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_parth_choudhary" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/the-parth-choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the-parth-choudhary" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/the-parth-choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_parth_choudhary" height="30" width="40" /></a>
 </p>
 <br>
 
